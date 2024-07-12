@@ -6,3 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 prom/prometheus:v2.53.1
+victoriametrics/victoria-metrics:v1.101.0
