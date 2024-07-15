@@ -7,3 +7,4 @@
 
 prom/prometheus:v2.53.1
 victoriametrics/victoria-metrics:v1.101.0
+thanosio/thanos:v0.35.1
