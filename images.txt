@@ -19,8 +19,10 @@
 #--platform=linux/arm64 nginx:1.27.4-perl
 #--platform=linux/amd64 python:3.12.9-slim-bullseye
 #--platform=linux/arm64 python:3.12.9-slim-bullseye
---platform=linux/amd64 python:2.7.18-slim
---platform=linux/arm64 python:2.7.18-slim
+#--platform=linux/amd64 python:2.7.18-slim
+#--platform=linux/arm64 python:2.7.18-slim
+--platform=linux/amd64 postgres:14.17
+--platform=linux/arm64 postgres:14.17
 #--platform=linux/amd64 python:3.12.9
 #--platform=linux/arm64 python:3.12.9
 #victoriametrics/victoria-metrics:v1.101.0
